@@ -20,8 +20,8 @@
   - 릴레이 모듈
 
 ### 하드웨어 구성
-
+<img src = https://github.com/MinsikYoon/STM_Project/blob/master/Picture/20240603_213724.jpg width="800" height="400"/>
 
 ### 동작 원리
-![]([https://github.com/MinsikYoon/STM_Project/blob/master/%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.png](https://github.com/MinsikYoon/STM_Project/blob/master/Picture/%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.png))
+![](https://github.com/MinsikYoon/STM_Project/blob/master/Picture/%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.png)
  

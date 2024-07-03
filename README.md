@@ -8,7 +8,7 @@ https://youtu.be/jn93UO1-WAA
 https://www.inflearn.com/course/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8/dashboard
 ---------
 ### 프로젝트 목적
-- STM32보드 사용법 및 HAL드라이버 숙달
+- STM32 보드 및 툴 숙달을 위한 프로젝트 진행
 ---------
 
 ### 프로젝트 기간 : 2024. 04. ~ 2024. 05.

@@ -23,5 +23,5 @@
 
 
 ### 동작 원리
-![](https://github.com/MinsikYoon/STM_Project/blob/master/%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.png)
+![]([https://github.com/MinsikYoon/STM_Project/blob/master/%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.png](https://github.com/MinsikYoon/STM_Project/blob/master/Picture/%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.png))
  

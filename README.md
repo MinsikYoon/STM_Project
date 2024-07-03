@@ -38,3 +38,7 @@ https://www.inflearn.com/course/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B0%9C%E
 ![](https://github.com/MinsikYoon/STM_Project/blob/master/Picture/%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.png)
  
 
+### 프로젝트 진행하면서 어려웠던 점
+
+### 프로젝트를 끝내고 느낀점
+- 

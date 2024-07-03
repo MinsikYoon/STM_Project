@@ -1,0 +1,2 @@
+../Core/Lib/Src/buttonController.c:5:6:checkButton	8	static
+../Core/Lib/Src/buttonController.c:26:10:getSwState	8	static

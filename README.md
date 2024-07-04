@@ -9,7 +9,7 @@ https://www.inflearn.com/course/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B0%9C%E
 ---------
 ### 프로젝트 실습 목적
 - STM32 보드 및 툴 숙달
-- UART, SPI, RX/TX, I2C 통신 실습
+- UART, SPI, I2C 통신 실습
 - 회로도 및 데이터시트 해석 능력 숙달
 - 오픈소스 분석
 ---------

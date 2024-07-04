@@ -8,9 +8,9 @@ https://youtu.be/jn93UO1-WAA
 https://www.inflearn.com/course/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8/dashboard
 ---------
 ### 프로젝트 실습 목적
-- STM32 보드 및 HAL드라이브 숙달
+- STM32 보드 및 HAL드라이브 학습
 - UART, SPI, I2C 통신 실습
-- 회로도 및 데이터시트 해석 능력 숙달
+- 회로도 및 데이터시트 해석 능력 학습
 - 오픈소스 분석
 ---------
 
